@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalParasPatel", "FinalParasPatel\FinalParasPatel.csproj", "{41336DDF-F1DA-4654-878E-DC08B5A6AC45}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalGameShoppingConcoleCRUD", "FinalParasPatel\FinalGameShoppingConcoleCRUD.csproj", "{41336DDF-F1DA-4654-878E-DC08B5A6AC45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

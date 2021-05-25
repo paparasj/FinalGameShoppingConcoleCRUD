@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FinalParasPatel
+namespace FinalGameShoppingConcoleCRUD
 {
     using System;
     using System.Data.Entity;
